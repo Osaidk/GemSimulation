@@ -1,0 +1,14 @@
+C:\Users\osaid\Desktop\c#practice\GemSimulation\bin\Debug\net8.0\GemSimulation.exe
+C:\Users\osaid\Desktop\c#practice\GemSimulation\bin\Debug\net8.0\GemSimulation.deps.json
+C:\Users\osaid\Desktop\c#practice\GemSimulation\bin\Debug\net8.0\GemSimulation.runtimeconfig.json
+C:\Users\osaid\Desktop\c#practice\GemSimulation\bin\Debug\net8.0\GemSimulation.dll
+C:\Users\osaid\Desktop\c#practice\GemSimulation\bin\Debug\net8.0\GemSimulation.pdb
+C:\Users\osaid\Desktop\c#practice\GemSimulation\obj\Debug\net8.0\GemSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaid\Desktop\c#practice\GemSimulation\obj\Debug\net8.0\GemSimulation.AssemblyInfoInputs.cache
+C:\Users\osaid\Desktop\c#practice\GemSimulation\obj\Debug\net8.0\GemSimulation.AssemblyInfo.cs
+C:\Users\osaid\Desktop\c#practice\GemSimulation\obj\Debug\net8.0\GemSimulation.csproj.CoreCompileInputs.cache
+C:\Users\osaid\Desktop\c#practice\GemSimulation\obj\Debug\net8.0\GemSimulation.dll
+C:\Users\osaid\Desktop\c#practice\GemSimulation\obj\Debug\net8.0\refint\GemSimulation.dll
+C:\Users\osaid\Desktop\c#practice\GemSimulation\obj\Debug\net8.0\GemSimulation.pdb
+C:\Users\osaid\Desktop\c#practice\GemSimulation\obj\Debug\net8.0\GemSimulation.genruntimeconfig.cache
+C:\Users\osaid\Desktop\c#practice\GemSimulation\obj\Debug\net8.0\ref\GemSimulation.dll
