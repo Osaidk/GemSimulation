@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GemSimulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05bddd528d460e60f24c20f95577dd2335c3b87d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GemSimulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GemSimulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
